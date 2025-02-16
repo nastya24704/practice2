@@ -1,0 +1,5 @@
+hight=int(input()) 
+weight=int(input()) 
+# ИМТ (кг/м**2)
+BMI=(weight/((hight*0.01)**2))
+print(round(BMI, 2))
