@@ -1,2 +1,2 @@
 distance=int(input())
-print(int(distance/1000))
+print(int(distance*0.00062137))
